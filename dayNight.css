@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background: yellow;
+}
+
+.night{
+    background: black;
+    color: white;
+}
+
+button{
+    margin-left: 95%;
+    font-size: 20px;
+    cursor: pointer;
+    
+}
